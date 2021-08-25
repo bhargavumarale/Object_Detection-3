@@ -1,0 +1,66 @@
+body
+{
+    background-size: cover;
+}
+.bed_room  
+{
+border-radius: 100px;
+padding-left: 200px;
+padding-right: 200px;
+font-size: 20px;
+}
+
+.desk, .bottle
+{
+border-radius: 100px;
+padding-left: 225px;
+padding-right: 225px;
+font-size: 20px;
+}
+
+.tv_and_ac
+{
+    border-radius: 100px;
+padding-left: 200px;
+padding-right: 200px;
+font-size: 20px;
+}
+
+.fruit_basket
+{
+    border-radius: 100px;
+padding-left: 200px;
+padding-right: 200px;
+font-size: 20px;
+}
+
+.header
+{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+canvas
+{
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+.back
+{
+    background-color: black;
+    color: white;
+    font-size: 23px;
+    border-radius: 5px;
+    margin-left: 1200px;
+    
+}
+
+.g
+{
+    line-height: 3;
+    width: fit-content;
+    border-radius: 5px;
+}
+
